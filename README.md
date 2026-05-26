@@ -1,5 +1,5 @@
 # About-me
-Hi, I'm Prash 👋
+Hi, I'm Prashansa 👋
 
 Not just an ordinary Project Manager — I enjoy building AI-powered workflows, automation systems, and data-driven solutions that improve how teams operate and make decisions.
 
