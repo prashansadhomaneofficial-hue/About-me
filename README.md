@@ -1,5 +1,5 @@
 # About-me
-Hi, I'm Prashansa 👋
+<h1 align="center">Hi 👋, I'm Prashansa </h1>
 
 Not just an ordinary Project Manager — I enjoy building AI-powered workflows, automation systems, and data-driven solutions that improve how teams operate and make decisions.
 
